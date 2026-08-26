@@ -1,0 +1,978 @@
+{
+  "notebook_count": 110,
+  "categories": {
+    "cryptography": 17,
+    "threat-intelligence": 7,
+    "security-analytics": 12,
+    "web-application-security": 14,
+    "network-security": 24,
+    "dfir-malware": 12,
+    "security-tools": 17,
+    "blockchain-security": 4,
+    "identity-and-access": 3
+  },
+  "notebooks": [
+    {
+      "title": "2FA Authenticator with QR Code and Verification",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/2fa-authenticator-with-qr-code-and-verification.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Adaptive Honeynet for Real-Time Attacker Profiling and Threat Signature Generation",
+      "category": "threat-intelligence",
+      "path": "notebooks/threat-intelligence/adaptive-honeynet-for-real-time-attacker-profiling-and-threat-signature-generation.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Advanced Network Anomaly Detection",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/advanced-network-anomaly-detection.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Advanced Web Vulnerability Scanner",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/advanced-web-vulnerability-scanner.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "AES + RSA Encryption Toolkit (Hybrid Encryption Model)",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/aes-rsa-encryption-toolkit-hybrid-encryption-model.ipynb",
+      "cells": 5,
+      "hardening": [
+        "removed stored output",
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "AI Honeypot + Real-Time Threat Dashboard",
+      "category": "network-security",
+      "path": "notebooks/network-security/ai-honeypot-real-time-threat-dashboard.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "AI Model Adversial Attack and Defense System",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/ai-model-adversial-attack-and-defense-system.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "AI-Augmented Threat Hunting System for Real-Time Detection of Polymorphic Malware in Enterprise Networks",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/ai-augmented-threat-hunting-system-for-real-time-detection-of-polymorphic-malware-in-enterprise-networks.ipynb",
+      "cells": 3,
+      "hardening": [
+        "removed stored output",
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "AI-powered malware analysis",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/ai-powered-malware-analysis.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "AI-Powered Supply Chain Attack Detection",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/ai-powered-supply-chain-attack-detection.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "AI-Powered Threat Intelligence",
+      "category": "threat-intelligence",
+      "path": "notebooks/threat-intelligence/ai-powered-threat-intelligence.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Anomaly Detection in Network Traffic using Synthetic Data + Isolation Forest",
+      "category": "network-security",
+      "path": "notebooks/network-security/anomaly-detection-in-network-traffic-using-synthetic-data-isolation-forest.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Anomaly Detection in System Logs Using Autoencoders",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/anomaly-detection-in-system-logs-using-autoencoders.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "APT Detection with Graph Neural Networks",
+      "category": "network-security",
+      "path": "notebooks/network-security/apt-detection-with-graph-neural-networks.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Auth Log Anomaly Detection",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/auth-log-anomaly-detection.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Automation Suite",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/automation-suite.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Base64 Steganography Detector",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/base64-steganography-detector.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Basic XOR Cipher Cryptanalysis with Frequency Analysis",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/basic-xor-cipher-cryptanalysis-with-frequency-analysis.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "BlockChain and CryptoCurrency",
+      "category": "blockchain-security",
+      "path": "notebooks/blockchain-security/blockchain-and-cryptocurrency.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "BlockChain Forensics and Cryptocurrency Tracing",
+      "category": "blockchain-security",
+      "path": "notebooks/blockchain-security/blockchain-forensics-and-cryptocurrency-tracing.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Blockchain Security & Smart Contract Auditor",
+      "category": "blockchain-security",
+      "path": "notebooks/blockchain-security/blockchain-security-and-smart-contract-auditor.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Brute Force Attack Simulation on a Login Form (Offline)",
+      "category": "identity-and-access",
+      "path": "notebooks/identity-and-access/brute-force-attack-simulation-on-a-login-form-offline.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Build a Phishing URL Detector with Python",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/build-a-phishing-url-detector-with-python.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Building a Honeypot",
+      "category": "network-security",
+      "path": "notebooks/network-security/building-a-honeypot.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "C2 Server and Agent for Penetration Testing",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/c2-server-and-agent-for-penetration-testing.ipynb",
+      "cells": 2,
+      "hardening": [
+        "replaced arbitrary shell execution with allow-listed local simulation"
+      ]
+    },
+    {
+      "title": "Caesar Cipher Encryptor_Decryptor",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/caesar-cipher-encryptor-decryptor.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Comprehensive Network Security Analyzer",
+      "category": "network-security",
+      "path": "notebooks/network-security/comprehensive-network-security-analyzer.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "CryptoCurrency Security Anaylsis",
+      "category": "blockchain-security",
+      "path": "notebooks/blockchain-security/cryptocurrency-security-anaylsis.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Cryptographic Attack",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/cryptographic-attack.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "CryptoGraphic Malware Detection",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/cryptographic-malware-detection.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "CyberSec Lab_ Network Traffic Analysis + Vulnerability Scanning",
+      "category": "network-security",
+      "path": "notebooks/network-security/cybersec-lab-network-traffic-analysis-vulnerability-scanning.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Cybersecurity Network Analyzer & Vulnerability Scanner",
+      "category": "network-security",
+      "path": "notebooks/network-security/cybersecurity-network-analyzer-and-vulnerability-scanner.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Detect Suspicious Network Connections (Log Analyzer)",
+      "category": "network-security",
+      "path": "notebooks/network-security/detect-suspicious-network-connections-log-analyzer.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Detect Typo-Squatting Domains Using Fuzzy Matching",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/detect-typo-squatting-domains-using-fuzzy-matching.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Detecting Malicious URLs with Machine Learning",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/detecting-malicious-urls-with-machine-learning.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Develop a Simple Ransomware Simulation",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/develop-a-simple-ransomware-simulation.ipynb",
+      "cells": 2,
+      "hardening": [
+        "confined encryption demo to a disposable temporary directory"
+      ]
+    },
+    {
+      "title": "Digital Forensics & Malware Analysis Lab",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/digital-forensics-and-malware-analysis-lab.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Digital Forensics & Malware Analysis Toolkit",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/digital-forensics-and-malware-analysis-toolkit.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Digital Forensics Data Visualization",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/digital-forensics-data-visualization.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "DNS Fingerprinting & Host Profiling",
+      "category": "network-security",
+      "path": "notebooks/network-security/dns-fingerprinting-and-host-profiling.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "DNS Spoof Detector",
+      "category": "network-security",
+      "path": "notebooks/network-security/dns-spoof-detector.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "DoS (Denial of Service), R2L (Remote to Local), U2R (User to Root), and Probing Project",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/dos-denial-of-service-r2l-remote-to-local-u2r-user-to-root-and-probing-project.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Educational Cybersecurity Learning Dashboard",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/educational-cybersecurity-learning-dashboard.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Email Header Phishing Detector",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/email-header-phishing-detector.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Encrypted Network Traffic Classifier with Deep Learning",
+      "category": "network-security",
+      "path": "notebooks/network-security/encrypted-network-traffic-classifier-with-deep-learning.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "encrypted password vault using AES encryption",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/encrypted-password-vault-using-aes-encryption.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Entropy Analysis of Executables",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/entropy-analysis-of-executables.ipynb",
+      "cells": 3,
+      "hardening": [
+        "removed stored output",
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Federated Learning Security and Byzantine Attack",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/federated-learning-security-and-byzantine-attack.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "File Hash Integrity Checker",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/file-hash-integrity-checker.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "File Integrity Checker with SHA256",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/file-integrity-checker-with-sha256.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Hash Function Comparsions",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/hash-function-comparsions.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Homomorphic Encryption Attack and Privacy Analysis",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/homomorphic-encryption-attack-and-privacy-analysis.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Insecure HTTP Exposure Scanner with Shodan Validation",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/insecure-http-exposure-scanner-with-shodan-validation.ipynb",
+      "cells": 3,
+      "hardening": [
+        "removed stored output",
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Intermediate Keylogger",
+      "category": "identity-and-access",
+      "path": "notebooks/identity-and-access/intermediate-keylogger.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Intrusion Detection System (IDS)",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/intrusion-detection-system-ids.ipynb",
+      "cells": 3,
+      "hardening": [
+        "removed stored output",
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "LLM-CTIA_ Cyber Threat Intel Aggregator",
+      "category": "threat-intelligence",
+      "path": "notebooks/threat-intelligence/llm-ctia-cyber-threat-intel-aggregator.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Log Anaylsis and SIEM Tool",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/log-anaylsis-and-siem-tool.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Log File Anomaly Detection System",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/log-file-anomaly-detection-system.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Malicious URL Detection (Heuristic-Based, No ML or API)",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/malicious-url-detection-heuristic-based-no-ml-or-api.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Malware Analysis Laboratory",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/malware-analysis-laboratory.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Malware Analysis with YARA",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/malware-analysis-with-yara.ipynb",
+      "cells": 3,
+      "hardening": [
+        "removed stored output",
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Malware Anaylsis and Reverse Engineering",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/malware-anaylsis-and-reverse-engineering.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Malware Classification Using Static Analysis",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/malware-classification-using-static-analysis.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Malware Traffic Classification Using Machine Learning",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/malware-traffic-classification-using-machine-learning.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Multi Vector IoT Botnet Detection",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/multi-vector-iot-botnet-detection.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Multi-Domain Threat Intelligence & Attribution Engine",
+      "category": "threat-intelligence",
+      "path": "notebooks/threat-intelligence/multi-domain-threat-intelligence-and-attribution-engine.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Network Intrusion Detection System",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-intrusion-detection-system.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Network Intrusion Detection Using the NSL-KDD Dataset",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-intrusion-detection-using-the-nsl-kdd-dataset.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Network Packet Analysis",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-packet-analysis.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "network packet sniffing and analysis",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-packet-sniffing-and-analysis.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Network Security Analyzer",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-security-analyzer.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Network Security Monitor",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-security-monitor.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Network Security Scanner",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-security-scanner.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Network Security Scanner and Vulnerability Assessment Tool",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-security-scanner-and-vulnerability-assessment-tool.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Network Security Tool",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-security-tool.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Network Traffic Analyzer",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-traffic-analyzer.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Network Traffic Anomaly Detection using an Autoencoder",
+      "category": "network-security",
+      "path": "notebooks/network-security/network-traffic-anomaly-detection-using-an-autoencoder.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Network Traffic Anomaly Detection using Machine Learning",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/network-traffic-anomaly-detection-using-machine-learning.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Password Cracking with Rainbow Table",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/password-cracking-with-rainbow-table.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Password Strength Checker using Entropy",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/password-strength-checker-using-entropy.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Password Strength Classifier (Machine Learning)",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/password-strength-classifier-machine-learning.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Password Strength Cracker (Entropy + Dictionary Attack Simulator)",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/password-strength-cracker-entropy-dictionary-attack-simulator.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Password Vault",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/password-vault.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Phishing Email Detector",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/phishing-email-detector.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Phishing URL Detection with NLP",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/phishing-url-detection-with-nlp.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Phishing URL Detector Prototype",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/phishing-url-detector-prototype.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Phishing URL Detector with Machine Learning",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/phishing-url-detector-with-machine-learning.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Port Scanner",
+      "category": "network-security",
+      "path": "notebooks/network-security/port-scanner.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Quantum Key Distribution Attack and Security Analysis",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/quantum-key-distribution-attack-and-security-analysis.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Quantum Resistant Cryptographic Attack Simulator",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/quantum-resistant-cryptographic-attack-simulator.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Scan for Suspicious IPs in Public Logs",
+      "category": "security-analytics",
+      "path": "notebooks/security-analytics/scan-for-suspicious-ips-in-public-logs.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Security Incident Timeline Tracker",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/security-incident-timeline-tracker.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Side-Channel Attack System",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/side-channel-attack-system.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Simple Email Address Extractor",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/simple-email-address-extractor.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Simple JWT Cracker (Weak Secret Brute-Forcer)",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/simple-jwt-cracker-weak-secret-brute-forcer.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Simple Password Strength Classifier Using Regex & Basic Features",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/simple-password-strength-classifier-using-regex-and-basic-features.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Simple XOR File Encryptor _ Decryptor",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/simple-xor-file-encryptor-decryptor.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "SQL Injection exploit script",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/sql-injection-exploit-script.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Steganographic Detection",
+      "category": "cryptography",
+      "path": "notebooks/cryptography/steganographic-detection.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Suspicious File Scanner (Offline, No API)",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/suspicious-file-scanner-offline-no-api.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Target Recon Toolkit",
+      "category": "threat-intelligence",
+      "path": "notebooks/threat-intelligence/target-recon-toolkit.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Threat Hunting Intelligence Program",
+      "category": "threat-intelligence",
+      "path": "notebooks/threat-intelligence/threat-hunting-intelligence-program.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Threat Intelligence Dashboard",
+      "category": "threat-intelligence",
+      "path": "notebooks/threat-intelligence/threat-intelligence-dashboard.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Userland Rootkit via LD_PRELOAD",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/userland-rootkit-via-ld-preload.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Web Application Firewall (WAF) with Custom Rules",
+      "category": "network-security",
+      "path": "notebooks/network-security/web-application-firewall-waf-with-custom-rules.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Web Application Security Scan",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/web-application-security-scan.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Web Application Security Scanner",
+      "category": "web-application-security",
+      "path": "notebooks/web-application-security/web-application-security-scanner.ipynb",
+      "cells": 2,
+      "hardening": []
+    },
+    {
+      "title": "Wireless Security Auditor",
+      "category": "security-tools",
+      "path": "notebooks/security-tools/wireless-security-auditor.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Zero-Knowledge Proof Authentication System",
+      "category": "identity-and-access",
+      "path": "notebooks/identity-and-access/zero-knowledge-proof-authentication-system.ipynb",
+      "cells": 2,
+      "hardening": [
+        "removed stored output"
+      ]
+    },
+    {
+      "title": "Zero-Star Exploit Detection Via Memory Forensics",
+      "category": "dfir-malware",
+      "path": "notebooks/dfir-malware/zero-star-exploit-detection-via-memory-forensics.ipynb",
+      "cells": 2,
+      "hardening": []
+    }
+  ]
+}
