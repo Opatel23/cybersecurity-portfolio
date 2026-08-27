@@ -70,9 +70,9 @@ These projects are educational and intended only for authorized environments. St
 | [Advanced Web Vulnerability Scanner](notebooks/web-application-security/advanced-web-vulnerability-scanner.ipynb) | Web Application Security | 2 |
 | [AES + RSA Encryption Toolkit (Hybrid Encryption Model)](notebooks/cryptography/aes-rsa-encryption-toolkit-hybrid-encryption-model.ipynb) | Cryptography | 5 |
 | [AI Honeypot + Real-Time Threat Dashboard](notebooks/network-security/ai-honeypot-real-time-threat-dashboard.ipynb) | Network Security | 2 |
-| [AI Model Adversial Attack and Defense System](notebooks/security-analytics/ai-model-adversial-attack-and-defense-system.ipynb) | Security Analytics | 2 |
+| [AI Model Adversarial Attack and Defense System](notebooks/security-analytics/ai-model-adversarial-attack-and-defense-system.ipynb) | Security Analytics | 2 |
 | [AI-Augmented Threat Hunting System for Real-Time Detection of Polymorphic Malware in Enterprise Networks](notebooks/security-analytics/ai-augmented-threat-hunting-system-for-real-time-detection-of-polymorphic-malware-in-enterprise-networks.ipynb) | Security Analytics | 4 |
-| [AI-powered malware analysis](notebooks/dfir-malware/ai-powered-malware-analysis.ipynb) | Dfir Malware | 2 |
+| [AI-Powered Malware Analysis](notebooks/dfir-malware/ai-powered-malware-analysis.ipynb) | DFIR & Malware | 2 |
 | [AI-Powered Supply Chain Attack Detection](notebooks/security-analytics/ai-powered-supply-chain-attack-detection.ipynb) | Security Analytics | 2 |
 | [AI-Powered Threat Intelligence](notebooks/threat-intelligence/ai-powered-threat-intelligence.ipynb) | Threat Intelligence | 2 |
 | [Anomaly Detection in Network Traffic using Synthetic Data + Isolation Forest](notebooks/network-security/anomaly-detection-in-network-traffic-using-synthetic-data-isolation-forest.ipynb) | Network Security | 2 |
@@ -82,52 +82,52 @@ These projects are educational and intended only for authorized environments. St
 | [Automation Suite](notebooks/security-tools/automation-suite.ipynb) | Security Tools | 2 |
 | [Base64 Steganography Detector](notebooks/cryptography/base64-steganography-detector.ipynb) | Cryptography | 2 |
 | [Basic XOR Cipher Cryptanalysis with Frequency Analysis](notebooks/cryptography/basic-xor-cipher-cryptanalysis-with-frequency-analysis.ipynb) | Cryptography | 2 |
-| [BlockChain and CryptoCurrency](notebooks/blockchain-security/blockchain-and-cryptocurrency.ipynb) | Blockchain Security | 2 |
-| [BlockChain Forensics and Cryptocurrency Tracing](notebooks/blockchain-security/blockchain-forensics-and-cryptocurrency-tracing.ipynb) | Blockchain Security | 2 |
+| [Blockchain and Cryptocurrency](notebooks/blockchain-security/blockchain-and-cryptocurrency.ipynb) | Blockchain Security | 2 |
+| [Blockchain Forensics and Cryptocurrency Tracing](notebooks/blockchain-security/blockchain-forensics-and-cryptocurrency-tracing.ipynb) | Blockchain Security | 2 |
 | [Blockchain Security & Smart Contract Auditor](notebooks/blockchain-security/blockchain-security-and-smart-contract-auditor.ipynb) | Blockchain Security | 3 |
-| [Brute Force Attack Simulation on a Login Form (Offline)](notebooks/identity-and-access/brute-force-attack-simulation-on-a-login-form-offline.ipynb) | Identity And Access | 2 |
+| [Brute Force Attack Simulation on a Login Form (Offline)](notebooks/identity-and-access/brute-force-attack-simulation-on-a-login-form-offline.ipynb) | Identity & Access | 2 |
 | [Build a Phishing URL Detector with Python](notebooks/web-application-security/build-a-phishing-url-detector-with-python.ipynb) | Web Application Security | 2 |
 | [Building a Honeypot](notebooks/network-security/building-a-honeypot.ipynb) | Network Security | 2 |
 | [C2 Server and Agent for Penetration Testing](notebooks/security-tools/c2-server-and-agent-for-penetration-testing.ipynb) | Security Tools | 2 |
-| [Caesar Cipher Encryptor_Decryptor](notebooks/cryptography/caesar-cipher-encryptor-decryptor.ipynb) | Cryptography | 2 |
+| [Caesar Cipher Encryptor/Decryptor](notebooks/cryptography/caesar-cipher-encryptor-decryptor.ipynb) | Cryptography | 2 |
 | [Comprehensive Network Security Analyzer](notebooks/network-security/comprehensive-network-security-analyzer.ipynb) | Network Security | 2 |
-| [CryptoCurrency Security Anaylsis](notebooks/blockchain-security/cryptocurrency-security-anaylsis.ipynb) | Blockchain Security | 2 |
+| [Cryptocurrency Security Analysis](notebooks/blockchain-security/cryptocurrency-security-analysis.ipynb) | Blockchain Security | 2 |
 | [Cryptographic Attack](notebooks/cryptography/cryptographic-attack.ipynb) | Cryptography | 2 |
 | [CryptoGraphic Malware Detection](notebooks/cryptography/cryptographic-malware-detection.ipynb) | Cryptography | 2 |
-| [CyberSec Lab_ Network Traffic Analysis + Vulnerability Scanning](notebooks/network-security/cybersec-lab-network-traffic-analysis-vulnerability-scanning.ipynb) | Network Security | 2 |
+| [Cybersecurity Lab: Network Traffic Analysis and Vulnerability Scanning](notebooks/network-security/cybersecurity-lab-network-traffic-analysis-and-vulnerability-scanning.ipynb) | Network Security | 2 |
 | [Cybersecurity Network Analyzer & Vulnerability Scanner](notebooks/network-security/cybersecurity-network-analyzer-and-vulnerability-scanner.ipynb) | Network Security | 2 |
 | [Detect Suspicious Network Connections (Log Analyzer)](notebooks/network-security/detect-suspicious-network-connections-log-analyzer.ipynb) | Network Security | 2 |
 | [Detect Typo-Squatting Domains Using Fuzzy Matching](notebooks/security-tools/detect-typo-squatting-domains-using-fuzzy-matching.ipynb) | Security Tools | 2 |
 | [Detecting Malicious URLs with Machine Learning](notebooks/web-application-security/detecting-malicious-urls-with-machine-learning.ipynb) | Web Application Security | 2 |
-| [Develop a Simple Ransomware Simulation](notebooks/dfir-malware/develop-a-simple-ransomware-simulation.ipynb) | Dfir Malware | 2 |
-| [Digital Forensics & Malware Analysis Lab](notebooks/dfir-malware/digital-forensics-and-malware-analysis-lab.ipynb) | Dfir Malware | 3 |
-| [Digital Forensics & Malware Analysis Toolkit](notebooks/dfir-malware/digital-forensics-and-malware-analysis-toolkit.ipynb) | Dfir Malware | 2 |
-| [Digital Forensics Data Visualization](notebooks/dfir-malware/digital-forensics-data-visualization.ipynb) | Dfir Malware | 2 |
+| [Develop a Simple Ransomware Simulation](notebooks/dfir-malware/develop-a-simple-ransomware-simulation.ipynb) | DFIR & Malware | 2 |
+| [Digital Forensics & Malware Analysis Lab](notebooks/dfir-malware/digital-forensics-and-malware-analysis-lab.ipynb) | DFIR & Malware | 3 |
+| [Digital Forensics & Malware Analysis Toolkit](notebooks/dfir-malware/digital-forensics-and-malware-analysis-toolkit.ipynb) | DFIR & Malware | 2 |
+| [Digital Forensics Data Visualization](notebooks/dfir-malware/digital-forensics-data-visualization.ipynb) | DFIR & Malware | 2 |
 | [DNS Fingerprinting & Host Profiling](notebooks/network-security/dns-fingerprinting-and-host-profiling.ipynb) | Network Security | 2 |
 | [DNS Spoof Detector](notebooks/network-security/dns-spoof-detector.ipynb) | Network Security | 2 |
 | [DoS (Denial of Service), R2L (Remote to Local), U2R (User to Root), and Probing Project](notebooks/security-tools/dos-denial-of-service-r2l-remote-to-local-u2r-user-to-root-and-probing-project.ipynb) | Security Tools | 2 |
 | [Educational Cybersecurity Learning Dashboard](notebooks/security-tools/educational-cybersecurity-learning-dashboard.ipynb) | Security Tools | 2 |
 | [Email Header Phishing Detector](notebooks/web-application-security/email-header-phishing-detector.ipynb) | Web Application Security | 2 |
 | [Encrypted Network Traffic Classifier with Deep Learning](notebooks/network-security/encrypted-network-traffic-classifier-with-deep-learning.ipynb) | Network Security | 2 |
-| [encrypted password vault using AES encryption](notebooks/cryptography/encrypted-password-vault-using-aes-encryption.ipynb) | Cryptography | 2 |
+| [Encrypted Password Vault Using AES Encryption](notebooks/cryptography/encrypted-password-vault-using-aes-encryption.ipynb) | Cryptography | 2 |
 | [Entropy Analysis of Executables](notebooks/security-tools/entropy-analysis-of-executables.ipynb) | Security Tools | 3 |
 | [Federated Learning Security and Byzantine Attack](notebooks/security-tools/federated-learning-security-and-byzantine-attack.ipynb) | Security Tools | 2 |
 | [File Hash Integrity Checker](notebooks/security-tools/file-hash-integrity-checker.ipynb) | Security Tools | 2 |
 | [File Integrity Checker with SHA256](notebooks/security-tools/file-integrity-checker-with-sha256.ipynb) | Security Tools | 2 |
-| [Hash Function Comparsions](notebooks/security-tools/hash-function-comparsions.ipynb) | Security Tools | 2 |
+| [Hash Function Comparisons](notebooks/security-tools/hash-function-comparisons.ipynb) | Security Tools | 2 |
 | [Homomorphic Encryption Attack and Privacy Analysis](notebooks/cryptography/homomorphic-encryption-attack-and-privacy-analysis.ipynb) | Cryptography | 2 |
 | [Insecure HTTP Exposure Scanner with Shodan Validation](notebooks/web-application-security/insecure-http-exposure-scanner-with-shodan-validation.ipynb) | Web Application Security | 3 |
-| [Intermediate Keylogger](notebooks/identity-and-access/intermediate-keylogger.ipynb) | Identity And Access | 2 |
+| [Intermediate Keylogger](notebooks/identity-and-access/intermediate-keylogger.ipynb) | Identity & Access | 2 |
 | [Intrusion Detection System (IDS)](notebooks/security-analytics/intrusion-detection-system-ids.ipynb) | Security Analytics | 3 |
-| [LLM-CTIA_ Cyber Threat Intel Aggregator](notebooks/threat-intelligence/llm-ctia-cyber-threat-intel-aggregator.ipynb) | Threat Intelligence | 2 |
-| [Log Anaylsis and SIEM Tool](notebooks/security-analytics/log-anaylsis-and-siem-tool.ipynb) | Security Analytics | 2 |
+| [LLM-CTIA: Cyber Threat Intelligence Aggregator](notebooks/threat-intelligence/llm-ctia-cyber-threat-intelligence-aggregator.ipynb) | Threat Intelligence | 2 |
+| [Log Analysis and SIEM Tool](notebooks/security-analytics/log-analysis-and-siem-tool.ipynb) | Security Analytics | 2 |
 | [Log File Anomaly Detection System](notebooks/security-analytics/log-file-anomaly-detection-system.ipynb) | Security Analytics | 2 |
 | [Malicious URL Detection (Heuristic-Based, No ML or API)](notebooks/web-application-security/malicious-url-detection-heuristic-based-no-ml-or-api.ipynb) | Web Application Security | 2 |
-| [Malware Analysis Laboratory](notebooks/dfir-malware/malware-analysis-laboratory.ipynb) | Dfir Malware | 2 |
-| [Malware Analysis with YARA](notebooks/dfir-malware/malware-analysis-with-yara.ipynb) | Dfir Malware | 3 |
-| [Malware Anaylsis and Reverse Engineering](notebooks/dfir-malware/malware-anaylsis-and-reverse-engineering.ipynb) | Dfir Malware | 2 |
-| [Malware Classification Using Static Analysis](notebooks/dfir-malware/malware-classification-using-static-analysis.ipynb) | Dfir Malware | 2 |
-| [Malware Traffic Classification Using Machine Learning](notebooks/dfir-malware/malware-traffic-classification-using-machine-learning.ipynb) | Dfir Malware | 2 |
+| [Malware Analysis Laboratory](notebooks/dfir-malware/malware-analysis-laboratory.ipynb) | DFIR & Malware | 2 |
+| [Malware Analysis with YARA](notebooks/dfir-malware/malware-analysis-with-yara.ipynb) | DFIR & Malware | 3 |
+| [Malware Analysis and Reverse Engineering](notebooks/dfir-malware/malware-analysis-and-reverse-engineering.ipynb) | DFIR & Malware | 2 |
+| [Malware Classification Using Static Analysis](notebooks/dfir-malware/malware-classification-using-static-analysis.ipynb) | DFIR & Malware | 2 |
+| [Malware Traffic Classification Using Machine Learning](notebooks/dfir-malware/malware-traffic-classification-using-machine-learning.ipynb) | DFIR & Malware | 2 |
 | [Multi Vector IoT Botnet Detection](notebooks/security-analytics/multi-vector-iot-botnet-detection.ipynb) | Security Analytics | 2 |
 | [Multi-Domain Threat Intelligence & Attribution Engine](notebooks/threat-intelligence/multi-domain-threat-intelligence-and-attribution-engine.ipynb) | Threat Intelligence | 2 |
 | [Network Intrusion Detection System](notebooks/network-security/network-intrusion-detection-system.ipynb) | Network Security | 2 |
@@ -155,12 +155,12 @@ These projects are educational and intended only for authorized environments. St
 | [Quantum Key Distribution Attack and Security Analysis](notebooks/security-tools/quantum-key-distribution-attack-and-security-analysis.ipynb) | Security Tools | 2 |
 | [Quantum Resistant Cryptographic Attack Simulator](notebooks/cryptography/quantum-resistant-cryptographic-attack-simulator.ipynb) | Cryptography | 2 |
 | [Scan for Suspicious IPs in Public Logs](notebooks/security-analytics/scan-for-suspicious-ips-in-public-logs.ipynb) | Security Analytics | 2 |
-| [Security Incident Timeline Tracker](notebooks/dfir-malware/security-incident-timeline-tracker.ipynb) | Dfir Malware | 2 |
+| [Security Incident Timeline Tracker](notebooks/dfir-malware/security-incident-timeline-tracker.ipynb) | DFIR & Malware | 2 |
 | [Side-Channel Attack System](notebooks/security-tools/side-channel-attack-system.ipynb) | Security Tools | 2 |
 | [Simple Email Address Extractor](notebooks/security-tools/simple-email-address-extractor.ipynb) | Security Tools | 2 |
 | [Simple JWT Cracker (Weak Secret Brute-Forcer)](notebooks/security-tools/simple-jwt-cracker-weak-secret-brute-forcer.ipynb) | Security Tools | 2 |
 | [Simple Password Strength Classifier Using Regex & Basic Features](notebooks/cryptography/simple-password-strength-classifier-using-regex-and-basic-features.ipynb) | Cryptography | 2 |
-| [Simple XOR File Encryptor _ Decryptor](notebooks/security-tools/simple-xor-file-encryptor-decryptor.ipynb) | Security Tools | 2 |
+| [Simple XOR File Encryptor/Decryptor](notebooks/security-tools/simple-xor-file-encryptor-decryptor.ipynb) | Security Tools | 2 |
 | [SQL Injection exploit script](notebooks/web-application-security/sql-injection-exploit-script.ipynb) | Web Application Security | 2 |
 | [Steganographic Detection](notebooks/cryptography/steganographic-detection.ipynb) | Cryptography | 2 |
 | [Suspicious File Scanner (Offline, No API)](notebooks/web-application-security/suspicious-file-scanner-offline-no-api.ipynb) | Web Application Security | 2 |
@@ -172,8 +172,8 @@ These projects are educational and intended only for authorized environments. St
 | [Web Application Security Scan](notebooks/web-application-security/web-application-security-scan.ipynb) | Web Application Security | 2 |
 | [Web Application Security Scanner](notebooks/web-application-security/web-application-security-scanner.ipynb) | Web Application Security | 2 |
 | [Wireless Security Auditor](notebooks/security-tools/wireless-security-auditor.ipynb) | Security Tools | 2 |
-| [Zero-Knowledge Proof Authentication System](notebooks/identity-and-access/zero-knowledge-proof-authentication-system.ipynb) | Identity And Access | 2 |
-| [Zero-Star Exploit Detection Via Memory Forensics](notebooks/dfir-malware/zero-star-exploit-detection-via-memory-forensics.ipynb) | Dfir Malware | 2 |
+| [Zero-Knowledge Proof Authentication System](notebooks/identity-and-access/zero-knowledge-proof-authentication-system.ipynb) | Identity & Access | 2 |
+| [Zero-Day Exploit Detection via Memory Forensics](notebooks/dfir-malware/zero-day-exploit-detection-via-memory-forensics.ipynb) | DFIR & Malware | 2 |
 
 ## Repository notes
 

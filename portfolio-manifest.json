@@ -68,9 +68,9 @@
       ]
     },
     {
-      "title": "AI Model Adversial Attack and Defense System",
+      "title": "AI Model Adversarial Attack and Defense System",
       "category": "security-analytics",
-      "path": "notebooks/security-analytics/ai-model-adversial-attack-and-defense-system.ipynb",
+      "path": "notebooks/security-analytics/ai-model-adversarial-attack-and-defense-system.ipynb",
       "cells": 2,
       "hardening": []
     },
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "title": "AI-powered malware analysis",
+      "title": "AI-Powered Malware Analysis",
       "category": "dfir-malware",
       "path": "notebooks/dfir-malware/ai-powered-malware-analysis.ipynb",
       "cells": 2,
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "title": "BlockChain and CryptoCurrency",
+      "title": "Blockchain and Cryptocurrency",
       "category": "blockchain-security",
       "path": "notebooks/blockchain-security/blockchain-and-cryptocurrency.ipynb",
       "cells": 2,
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "title": "BlockChain Forensics and Cryptocurrency Tracing",
+      "title": "Blockchain Forensics and Cryptocurrency Tracing",
       "category": "blockchain-security",
       "path": "notebooks/blockchain-security/blockchain-forensics-and-cryptocurrency-tracing.ipynb",
       "cells": 2,
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "title": "Caesar Cipher Encryptor_Decryptor",
+      "title": "Caesar Cipher Encryptor/Decryptor",
       "category": "cryptography",
       "path": "notebooks/cryptography/caesar-cipher-encryptor-decryptor.ipynb",
       "cells": 2,
@@ -250,9 +250,9 @@
       ]
     },
     {
-      "title": "CryptoCurrency Security Anaylsis",
+      "title": "Cryptocurrency Security Analysis",
       "category": "blockchain-security",
-      "path": "notebooks/blockchain-security/cryptocurrency-security-anaylsis.ipynb",
+      "path": "notebooks/blockchain-security/cryptocurrency-security-analysis.ipynb",
       "cells": 2,
       "hardening": [
         "removed stored output"
@@ -275,9 +275,9 @@
       "hardening": []
     },
     {
-      "title": "CyberSec Lab_ Network Traffic Analysis + Vulnerability Scanning",
+      "title": "Cybersecurity Lab: Network Traffic Analysis and Vulnerability Scanning",
       "category": "network-security",
-      "path": "notebooks/network-security/cybersec-lab-network-traffic-analysis-vulnerability-scanning.ipynb",
+      "path": "notebooks/network-security/cybersecurity-lab-network-traffic-analysis-and-vulnerability-scanning.ipynb",
       "cells": 2,
       "hardening": [
         "removed stored output"
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "title": "encrypted password vault using AES encryption",
+      "title": "Encrypted Password Vault Using AES Encryption",
       "category": "cryptography",
       "path": "notebooks/cryptography/encrypted-password-vault-using-aes-encryption.ipynb",
       "cells": 2,
@@ -454,9 +454,9 @@
       ]
     },
     {
-      "title": "Hash Function Comparsions",
+      "title": "Hash Function Comparisons",
       "category": "security-tools",
-      "path": "notebooks/security-tools/hash-function-comparsions.ipynb",
+      "path": "notebooks/security-tools/hash-function-comparisons.ipynb",
       "cells": 2,
       "hardening": [
         "removed stored output"
@@ -499,18 +499,18 @@
       ]
     },
     {
-      "title": "LLM-CTIA_ Cyber Threat Intel Aggregator",
+      "title": "LLM-CTIA: Cyber Threat Intelligence Aggregator",
       "category": "threat-intelligence",
-      "path": "notebooks/threat-intelligence/llm-ctia-cyber-threat-intel-aggregator.ipynb",
+      "path": "notebooks/threat-intelligence/llm-ctia-cyber-threat-intelligence-aggregator.ipynb",
       "cells": 2,
       "hardening": [
         "removed stored output"
       ]
     },
     {
-      "title": "Log Anaylsis and SIEM Tool",
+      "title": "Log Analysis and SIEM Tool",
       "category": "security-analytics",
-      "path": "notebooks/security-analytics/log-anaylsis-and-siem-tool.ipynb",
+      "path": "notebooks/security-analytics/log-analysis-and-siem-tool.ipynb",
       "cells": 2,
       "hardening": [
         "removed stored output"
@@ -554,9 +554,9 @@
       ]
     },
     {
-      "title": "Malware Anaylsis and Reverse Engineering",
+      "title": "Malware Analysis and Reverse Engineering",
       "category": "dfir-malware",
-      "path": "notebooks/dfir-malware/malware-anaylsis-and-reverse-engineering.ipynb",
+      "path": "notebooks/dfir-malware/malware-analysis-and-reverse-engineering.ipynb",
       "cells": 2,
       "hardening": [
         "removed stored output"
@@ -857,7 +857,7 @@
       ]
     },
     {
-      "title": "Simple XOR File Encryptor _ Decryptor",
+      "title": "Simple XOR File Encryptor/Decryptor",
       "category": "security-tools",
       "path": "notebooks/security-tools/simple-xor-file-encryptor-decryptor.ipynb",
       "cells": 2,
@@ -968,9 +968,9 @@
       ]
     },
     {
-      "title": "Zero-Star Exploit Detection Via Memory Forensics",
+      "title": "Zero-Day Exploit Detection via Memory Forensics",
       "category": "dfir-malware",
-      "path": "notebooks/dfir-malware/zero-star-exploit-detection-via-memory-forensics.ipynb",
+      "path": "notebooks/dfir-malware/zero-day-exploit-detection-via-memory-forensics.ipynb",
       "cells": 2,
       "hardening": []
     }
