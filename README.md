@@ -9,6 +9,8 @@ A collection of 110 hands-on cybersecurity notebooks spanning detection engineer
 
 The projects use Python and reproducible synthetic data to turn security concepts into working prototypes. Each notebook is independent: open one directly in GitHub, run it in Google Colab, or download it for a local Jupyter environment.
 
+> This repository intentionally includes both flagship builds and smaller learning exercises. See the [portfolio guide](docs/PORTFOLIO_GUIDE.md) for maturity levels and recommendations on presenting the work.
+
 ## Featured projects
 
 Start here for the strongest demonstrations of breadth and technical depth.
@@ -63,13 +65,13 @@ These projects are educational and intended only for authorized environments. St
 | Notebook | Area | Cells |
 |---|---|---:|
 | [2FA Authenticator with QR Code and Verification](notebooks/cryptography/2fa-authenticator-with-qr-code-and-verification.ipynb) | Cryptography | 2 |
-| [Adaptive Honeynet for Real-Time Attacker Profiling and Threat Signature Generation](notebooks/threat-intelligence/adaptive-honeynet-for-real-time-attacker-profiling-and-threat-signature-generation.ipynb) | Threat Intelligence | 2 |
+| [Adaptive Honeynet for Real-Time Attacker Profiling and Threat Signature Generation](notebooks/threat-intelligence/adaptive-honeynet-for-real-time-attacker-profiling-and-threat-signature-generation.ipynb) | Threat Intelligence | 3 |
 | [Advanced Network Anomaly Detection](notebooks/security-analytics/advanced-network-anomaly-detection.ipynb) | Security Analytics | 2 |
 | [Advanced Web Vulnerability Scanner](notebooks/web-application-security/advanced-web-vulnerability-scanner.ipynb) | Web Application Security | 2 |
 | [AES + RSA Encryption Toolkit (Hybrid Encryption Model)](notebooks/cryptography/aes-rsa-encryption-toolkit-hybrid-encryption-model.ipynb) | Cryptography | 5 |
 | [AI Honeypot + Real-Time Threat Dashboard](notebooks/network-security/ai-honeypot-real-time-threat-dashboard.ipynb) | Network Security | 2 |
 | [AI Model Adversial Attack and Defense System](notebooks/security-analytics/ai-model-adversial-attack-and-defense-system.ipynb) | Security Analytics | 2 |
-| [AI-Augmented Threat Hunting System for Real-Time Detection of Polymorphic Malware in Enterprise Networks](notebooks/security-analytics/ai-augmented-threat-hunting-system-for-real-time-detection-of-polymorphic-malware-in-enterprise-networks.ipynb) | Security Analytics | 3 |
+| [AI-Augmented Threat Hunting System for Real-Time Detection of Polymorphic Malware in Enterprise Networks](notebooks/security-analytics/ai-augmented-threat-hunting-system-for-real-time-detection-of-polymorphic-malware-in-enterprise-networks.ipynb) | Security Analytics | 4 |
 | [AI-powered malware analysis](notebooks/dfir-malware/ai-powered-malware-analysis.ipynb) | Dfir Malware | 2 |
 | [AI-Powered Supply Chain Attack Detection](notebooks/security-analytics/ai-powered-supply-chain-attack-detection.ipynb) | Security Analytics | 2 |
 | [AI-Powered Threat Intelligence](notebooks/threat-intelligence/ai-powered-threat-intelligence.ipynb) | Threat Intelligence | 2 |
@@ -82,7 +84,7 @@ These projects are educational and intended only for authorized environments. St
 | [Basic XOR Cipher Cryptanalysis with Frequency Analysis](notebooks/cryptography/basic-xor-cipher-cryptanalysis-with-frequency-analysis.ipynb) | Cryptography | 2 |
 | [BlockChain and CryptoCurrency](notebooks/blockchain-security/blockchain-and-cryptocurrency.ipynb) | Blockchain Security | 2 |
 | [BlockChain Forensics and Cryptocurrency Tracing](notebooks/blockchain-security/blockchain-forensics-and-cryptocurrency-tracing.ipynb) | Blockchain Security | 2 |
-| [Blockchain Security & Smart Contract Auditor](notebooks/blockchain-security/blockchain-security-and-smart-contract-auditor.ipynb) | Blockchain Security | 2 |
+| [Blockchain Security & Smart Contract Auditor](notebooks/blockchain-security/blockchain-security-and-smart-contract-auditor.ipynb) | Blockchain Security | 3 |
 | [Brute Force Attack Simulation on a Login Form (Offline)](notebooks/identity-and-access/brute-force-attack-simulation-on-a-login-form-offline.ipynb) | Identity And Access | 2 |
 | [Build a Phishing URL Detector with Python](notebooks/web-application-security/build-a-phishing-url-detector-with-python.ipynb) | Web Application Security | 2 |
 | [Building a Honeypot](notebooks/network-security/building-a-honeypot.ipynb) | Network Security | 2 |
@@ -98,7 +100,7 @@ These projects are educational and intended only for authorized environments. St
 | [Detect Typo-Squatting Domains Using Fuzzy Matching](notebooks/security-tools/detect-typo-squatting-domains-using-fuzzy-matching.ipynb) | Security Tools | 2 |
 | [Detecting Malicious URLs with Machine Learning](notebooks/web-application-security/detecting-malicious-urls-with-machine-learning.ipynb) | Web Application Security | 2 |
 | [Develop a Simple Ransomware Simulation](notebooks/dfir-malware/develop-a-simple-ransomware-simulation.ipynb) | Dfir Malware | 2 |
-| [Digital Forensics & Malware Analysis Lab](notebooks/dfir-malware/digital-forensics-and-malware-analysis-lab.ipynb) | Dfir Malware | 2 |
+| [Digital Forensics & Malware Analysis Lab](notebooks/dfir-malware/digital-forensics-and-malware-analysis-lab.ipynb) | Dfir Malware | 3 |
 | [Digital Forensics & Malware Analysis Toolkit](notebooks/dfir-malware/digital-forensics-and-malware-analysis-toolkit.ipynb) | Dfir Malware | 2 |
 | [Digital Forensics Data Visualization](notebooks/dfir-malware/digital-forensics-data-visualization.ipynb) | Dfir Malware | 2 |
 | [DNS Fingerprinting & Host Profiling](notebooks/network-security/dns-fingerprinting-and-host-profiling.ipynb) | Network Security | 2 |
@@ -129,7 +131,7 @@ These projects are educational and intended only for authorized environments. St
 | [Multi Vector IoT Botnet Detection](notebooks/security-analytics/multi-vector-iot-botnet-detection.ipynb) | Security Analytics | 2 |
 | [Multi-Domain Threat Intelligence & Attribution Engine](notebooks/threat-intelligence/multi-domain-threat-intelligence-and-attribution-engine.ipynb) | Threat Intelligence | 2 |
 | [Network Intrusion Detection System](notebooks/network-security/network-intrusion-detection-system.ipynb) | Network Security | 2 |
-| [Network Intrusion Detection Using the NSL-KDD Dataset](notebooks/network-security/network-intrusion-detection-using-the-nsl-kdd-dataset.ipynb) | Network Security | 2 |
+| [Network Intrusion Detection Using the NSL-KDD Dataset](notebooks/network-security/network-intrusion-detection-using-the-nsl-kdd-dataset.ipynb) | Network Security | 3 |
 | [Network Packet Analysis](notebooks/network-security/network-packet-analysis.ipynb) | Network Security | 2 |
 | [network packet sniffing and analysis](notebooks/network-security/network-packet-sniffing-and-analysis.ipynb) | Network Security | 2 |
 | [Network Security Analyzer](notebooks/network-security/network-security-analyzer.ipynb) | Network Security | 2 |
@@ -166,7 +168,7 @@ These projects are educational and intended only for authorized environments. St
 | [Threat Hunting Intelligence Program](notebooks/threat-intelligence/threat-hunting-intelligence-program.ipynb) | Threat Intelligence | 2 |
 | [Threat Intelligence Dashboard](notebooks/threat-intelligence/threat-intelligence-dashboard.ipynb) | Threat Intelligence | 2 |
 | [Userland Rootkit via LD_PRELOAD](notebooks/security-tools/userland-rootkit-via-ld-preload.ipynb) | Security Tools | 2 |
-| [Web Application Firewall (WAF) with Custom Rules](notebooks/network-security/web-application-firewall-waf-with-custom-rules.ipynb) | Network Security | 2 |
+| [Web Application Firewall (WAF) with Custom Rules](notebooks/network-security/web-application-firewall-waf-with-custom-rules.ipynb) | Network Security | 3 |
 | [Web Application Security Scan](notebooks/web-application-security/web-application-security-scan.ipynb) | Web Application Security | 2 |
 | [Web Application Security Scanner](notebooks/web-application-security/web-application-security-scanner.ipynb) | Web Application Security | 2 |
 | [Wireless Security Auditor](notebooks/security-tools/wireless-security-auditor.ipynb) | Security Tools | 2 |

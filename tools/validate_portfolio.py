@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import hashlib
 import re
 import sys
 from pathlib import Path
@@ -20,6 +21,7 @@ def main() -> int:
     root = Path(__file__).resolve().parents[1]
     notebooks = sorted((root / "notebooks").rglob("*.ipynb"))
     failures: list[str] = []
+    source_hashes: dict[str, Path] = {}
 
     for path in notebooks:
         try:
@@ -29,6 +31,8 @@ def main() -> int:
             continue
         if notebook.get("nbformat") != 4 or not isinstance(notebook.get("cells"), list):
             failures.append(f"{path.relative_to(root)}: invalid notebook structure")
+        if not re.fullmatch(r"[a-z0-9-]+\.ipynb", path.name):
+            failures.append(f"{path.relative_to(root)}: filename is not normalized")
         text = json.dumps(notebook)
         for label, pattern in SECRET_PATTERNS.items():
             if pattern.search(text):
@@ -39,6 +43,18 @@ def main() -> int:
                     failures.append(f"{path.relative_to(root)} cell {index}: stored output")
                 if cell.get("execution_count") is not None:
                     failures.append(f"{path.relative_to(root)} cell {index}: execution count")
+        code = "\n".join(
+            "".join(cell.get("source", []))
+            for cell in notebook.get("cells", [])
+            if cell.get("cell_type") == "code"
+        )
+        normalized_code = re.sub(r"\s+", "", code)
+        digest = hashlib.sha256(normalized_code.encode("utf-8")).hexdigest()
+        if normalized_code and digest in source_hashes:
+            failures.append(
+                f"{path.relative_to(root)}: duplicates code in {source_hashes[digest].relative_to(root)}"
+            )
+        source_hashes[digest] = path
 
     manifest = json.loads((root / "portfolio-manifest.json").read_text(encoding="utf-8"))
     if manifest.get("notebook_count") != len(notebooks):

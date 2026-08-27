@@ -25,7 +25,7 @@
       "title": "Adaptive Honeynet for Real-Time Attacker Profiling and Threat Signature Generation",
       "category": "threat-intelligence",
       "path": "notebooks/threat-intelligence/adaptive-honeynet-for-real-time-attacker-profiling-and-threat-signature-generation.ipynb",
-      "cells": 2,
+      "cells": 3,
       "hardening": [
         "removed stored output"
       ]
@@ -78,7 +78,7 @@
       "title": "AI-Augmented Threat Hunting System for Real-Time Detection of Polymorphic Malware in Enterprise Networks",
       "category": "security-analytics",
       "path": "notebooks/security-analytics/ai-augmented-threat-hunting-system-for-real-time-detection-of-polymorphic-malware-in-enterprise-networks.ipynb",
-      "cells": 3,
+      "cells": 4,
       "hardening": [
         "removed stored output",
         "removed stored output"
@@ -190,7 +190,7 @@
       "title": "Blockchain Security & Smart Contract Auditor",
       "category": "blockchain-security",
       "path": "notebooks/blockchain-security/blockchain-security-and-smart-contract-auditor.ipynb",
-      "cells": 2,
+      "cells": 3,
       "hardening": [
         "removed stored output"
       ]
@@ -332,7 +332,7 @@
       "title": "Digital Forensics & Malware Analysis Lab",
       "category": "dfir-malware",
       "path": "notebooks/dfir-malware/digital-forensics-and-malware-analysis-lab.ipynb",
-      "cells": 2,
+      "cells": 3,
       "hardening": [
         "removed stored output"
       ]
@@ -605,7 +605,7 @@
       "title": "Network Intrusion Detection Using the NSL-KDD Dataset",
       "category": "network-security",
       "path": "notebooks/network-security/network-intrusion-detection-using-the-nsl-kdd-dataset.ipynb",
-      "cells": 2,
+      "cells": 3,
       "hardening": [
         "removed stored output"
       ]
@@ -930,7 +930,7 @@
       "title": "Web Application Firewall (WAF) with Custom Rules",
       "category": "network-security",
       "path": "notebooks/network-security/web-application-firewall-waf-with-custom-rules.ipynb",
-      "cells": 2,
+      "cells": 3,
       "hardening": [
         "removed stored output"
       ]
