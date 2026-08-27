@@ -1,20 +1,64 @@
-# Cybersecurity Colab Portfolio
+# Cybersecurity Portfolio
 
-A curated collection of 110 educational cybersecurity notebooks covering defensive engineering, security analytics, cryptography, network security, DFIR, cloud security, and controlled offensive-security simulations.
+[![Notebook validation](https://github.com/Opatel23/cybersecurity-portfolio/actions/workflows/validate-notebooks.yml/badge.svg)](https://github.com/Opatel23/cybersecurity-portfolio/actions/workflows/validate-notebooks.yml)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
+![Authorized labs only](https://img.shields.io/badge/scope-authorized%20labs%20only-2f855a)
 
-## Safety and scope
+A collection of 110 hands-on cybersecurity notebooks spanning detection engineering, network defense, DFIR, threat intelligence, applied cryptography, identity, web security, and controlled adversary simulation.
 
-These projects are intended for authorized labs, synthetic datasets, and systems you own or have explicit permission to test. Before publication, notebook outputs were removed, execution counters reset, exported filenames normalized, placeholder credentials standardized, and higher-risk demonstrations constrained to local disposable simulations.
+The projects use Python and reproducible synthetic data to turn security concepts into working prototypes. Each notebook is independent: open one directly in GitHub, run it in Google Colab, or download it for a local Jupyter environment.
 
-## Use in Google Colab
+## Featured projects
 
-Open any `.ipynb` file on GitHub and choose **Open in Colab**, or upload it directly at [colab.research.google.com](https://colab.research.google.com/). Install the dependencies shown in the notebook before running cells. Review each notebook first; some examples make network requests or require API credentials that you must supply through Colab secrets.
+Start here for the strongest demonstrations of breadth and technical depth.
 
-## Portfolio breakdown
+| Project | What it demonstrates | Focus |
+|---|---|---|
+| [AI-Augmented Threat Hunting](notebooks/security-analytics/ai-augmented-threat-hunting-system-for-real-time-detection-of-polymorphic-malware-in-enterprise-networks.ipynb) | A detection pipeline for evolving malware behavior | Detection engineering, ML |
+| [Digital Forensics & Malware Analysis Lab](notebooks/dfir-malware/digital-forensics-and-malware-analysis-lab.ipynb) | A structured workflow for triage, artifact review, and evidence analysis | DFIR, malware analysis |
+| [Network Intrusion Detection with NSL-KDD](notebooks/network-security/network-intrusion-detection-using-the-nsl-kdd-dataset.ipynb) | Dataset preparation, model training, and intrusion classification | Network security, ML |
+| [Blockchain Security & Smart Contract Auditor](notebooks/blockchain-security/blockchain-security-and-smart-contract-auditor.ipynb) | Automated checks for common smart-contract risks | Blockchain security |
+| [Web Application Firewall with Custom Rules](notebooks/network-security/web-application-firewall-waf-with-custom-rules.ipynb) | Rule-based request inspection and defensive filtering | AppSec, detection |
+| [Adaptive Honeynet](notebooks/threat-intelligence/adaptive-honeynet-for-real-time-attacker-profiling-and-threat-signature-generation.ipynb) | Attacker profiling and synthetic threat-signature generation | Threat intelligence |
 
-blockchain-security: 4, cryptography: 17, dfir-malware: 12, identity-and-access: 3, network-security: 24, security-analytics: 12, security-tools: 17, threat-intelligence: 7, web-application-security: 14
+## Skills represented
 
-## Projects
+- Security analytics: anomaly detection, feature engineering, classification, and visualization
+- Defensive engineering: IDS, WAF, log analysis, integrity monitoring, and alerting
+- DFIR: artifact triage, malware analysis, incident timelines, YARA, and memory concepts
+- Network security: traffic analysis, DNS, packet inspection, honeypots, and authorized scanning
+- Applied security: authentication, cryptography, password security, and blockchain analysis
+
+## Browse by area
+
+| Area | Notebooks | Directory |
+|---|---:|---|
+| Network Security | 24 | [Browse](notebooks/network-security) |
+| Cryptography | 17 | [Browse](notebooks/cryptography) |
+| Security Tools | 17 | [Browse](notebooks/security-tools) |
+| Web Application Security | 14 | [Browse](notebooks/web-application-security) |
+| DFIR & Malware | 12 | [Browse](notebooks/dfir-malware) |
+| Security Analytics | 12 | [Browse](notebooks/security-analytics) |
+| Threat Intelligence | 7 | [Browse](notebooks/threat-intelligence) |
+| Blockchain Security | 4 | [Browse](notebooks/blockchain-security) |
+| Identity & Access | 3 | [Browse](notebooks/identity-and-access) |
+
+## Running a notebook
+
+1. Open a notebook from the catalog below.
+2. Select **Open in Colab** on GitHub, or upload the `.ipynb` file at [Google Colab](https://colab.research.google.com/).
+3. Review the code and the notebook-specific dependencies before executing cells.
+4. Use only synthetic data, a local lab, or a system you own and are authorized to test.
+5. Supply required API credentials through Colab secrets or environment variables—never hard-code them.
+
+Notebooks vary in dependency and dataset requirements. They are statically validated in CI, but they are not all executed automatically because some need Colab-only packages, external datasets, elevated networking capabilities, or user-provided credentials.
+
+## Safety and responsible use
+
+These projects are educational and intended only for authorized environments. Stored outputs and execution counters have been removed, placeholder credentials are standardized, and the two highest-risk demonstrations are constrained to local disposable simulations. See [SECURITY.md](SECURITY.md) before running offensive-security material.
+
+## Complete project catalog
 
 | Notebook | Area | Cells |
 |---|---|---:|
