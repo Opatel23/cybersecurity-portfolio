@@ -1,5 +1,7 @@
 # Cybersecurity Portfolio
 
+![Abstract visualization of cloud infrastructure, defensive controls, attack graphs, and security telemetry](assets/cybersecurity-portfolio-banner.png)
+
 [![Notebook validation](https://github.com/Opatel23/cybersecurity-portfolio/actions/workflows/validate-notebooks.yml/badge.svg)](https://github.com/Opatel23/cybersecurity-portfolio/actions/workflows/validate-notebooks.yml)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
