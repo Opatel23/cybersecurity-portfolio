@@ -38,6 +38,8 @@ def main() -> int:
             if pattern.search(text):
                 failures.append(f"{path.relative_to(root)}: possible {label}")
         for index, cell in enumerate(notebook.get("cells", []), start=1):
+            if {"executionInfo", "outputId"} & cell.get("metadata", {}).keys():
+                failures.append(f"{path.relative_to(root)} cell {index}: execution-session metadata")
             if cell.get("cell_type") == "code":
                 if cell.get("outputs"):
                     failures.append(f"{path.relative_to(root)} cell {index}: stored output")

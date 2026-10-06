@@ -9,7 +9,9 @@
 
 A collection of 110 hands-on cybersecurity notebooks spanning detection engineering, network defense, DFIR, threat intelligence, applied cryptography, identity, web security, and controlled adversary simulation.
 
-The projects use Python and reproducible synthetic data to turn security concepts into working prototypes. Each notebook is independent: open one directly in GitHub, run it in Google Colab, or download it for a local Jupyter environment.
+The projects use Python with a mix of synthetic data, external datasets, and user-supplied inputs. Each notebook is independent: open one directly in GitHub, run it in Google Colab, or download it for a local Jupyter environment. These are learning exercises and prototypes, not production security tools.
+
+For a larger project with a tested Python engine, dashboard, and before/after remediation report, see [CloudStrike Lab](https://github.com/Opatel23/cloudstrike-lab).
 
 > This repository intentionally includes both flagship builds and smaller learning exercises. See the [portfolio guide](docs/PORTFOLIO_GUIDE.md) for maturity levels and recommendations on presenting the work.
 
